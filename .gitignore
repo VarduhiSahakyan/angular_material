@@ -43,6 +43,7 @@ build/
 /tmp
 /out-tsc
 /bazel-out
+.angular
 
 # Node
 src/main/webapp/frontend/node_modules
